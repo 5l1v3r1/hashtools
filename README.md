@@ -1,1 +1,1 @@
-# hashtools
+# usage : [python hash.py]
